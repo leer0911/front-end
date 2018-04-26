@@ -1,0 +1,15 @@
+{
+  "name": "fe",
+  "version": "1.0.0",
+  "description": "fe code & article collection",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "LE",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^0.8.4"
+  }
+}

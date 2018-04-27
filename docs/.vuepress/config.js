@@ -51,7 +51,7 @@ module.exports = {
   head: [['link', { rel: 'icon', href: `/logo.png` }]],
   serviceWorker: true,
   themeConfig: {
-    repo: 'leer0911/front-ends',
+    repo: 'leer0911/front-end',
     editLinks: true,
     docsDir: 'docs',
     nav,

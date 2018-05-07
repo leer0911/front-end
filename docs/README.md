@@ -2,7 +2,7 @@
 
 ## Todo
 
-* ❌ [StyleGuide](./StyleGuide/README.md)
+* ✅ [StyleGuide](./StyleGuide/README.md)
 * ❌ [Array](./Array/README.md)
 * ❌ [Object](./Object/README.md)
 * ❌ [String](./String/README.md)
